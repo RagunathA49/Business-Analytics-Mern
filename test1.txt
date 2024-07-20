@@ -1,0 +1,2 @@
+hello i am Main 
+i can read and write the file 
